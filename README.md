@@ -18,8 +18,6 @@ The Advanced Bioprinting Simulator with Reinforcement Learning is a sophisticate
 
 - **Physics Simulation**: The project incorporates realistic physics simulations to model the behavior of bioprinted materials. Phenomena such as extrusion, diffusion, and settling are simulated to capture the complex interactions and dynamics of the bioprinting process.
 
-- **Customization and Extensibility**: The simulator is designed with modularity and extensibility in mind. The codebase is well-structured and documented, allowing researchers and developers to easily customize and extend the functionality to suit their specific requirements and experimental setups.
-
 ## Installation
 
 To set up the Advanced Bioprinting Simulator on your local machine, follow these steps:
